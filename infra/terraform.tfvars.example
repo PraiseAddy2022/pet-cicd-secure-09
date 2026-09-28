@@ -18,7 +18,7 @@ desired_count = 2
 
 db_name           = "petclinic"
 db_username       = "petclinic"
-db_engine_version = "16.4"
+db_engine_version = "16.9"
 db_instance_class = "db.t4g.micro"
 
 # GitHub Actions OIDC deploy role (used by .github/workflows/pipeline.yml
